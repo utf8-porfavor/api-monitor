@@ -16,7 +16,7 @@ Reads a list of APIs from a local `apis.json` file, makes a GET request to each 
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/utf8-porfavor/api-monitor.git
 cd api-monitor
 ```
 
