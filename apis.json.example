@@ -1,0 +1,7 @@
+[
+  {
+    "name": "API Name",
+    "url": "https://api.example.com/endpoint",
+    "description": "Short description for the user"
+  }
+]
